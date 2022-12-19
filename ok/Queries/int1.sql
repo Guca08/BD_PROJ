@@ -2,7 +2,7 @@
 .headers on
 .nullvalue NULL
 
----Qual o nome do jogador, sua equipa e o total de golos do marcador.
+---Indique o nome do melhor marcador do campeonato, qual sua equipa e o total de golos marcados.
 
 SELECT nomeJogador, nomeEquipa, totalGolos
 FROM Jogador
